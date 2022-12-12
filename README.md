@@ -1,6 +1,6 @@
 # Data Analysis in R
 
-This repository conatins an R prgram that anylsis the income of top earners for a perticular year.
+This repository conatins a program that anylsis the income of top earners for a perticular year.
 
 Analysis includes:
 - Basic numerical summeries such as standard deviation and mean.
